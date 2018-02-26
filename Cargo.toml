@@ -1,0 +1,6 @@
+[package]
+name = "qiita_api"
+version = "0.1.0"
+authors = ["Sho Sato <shsato.t.t.n@gmail.com>"]
+
+[dependencies]
